@@ -1,1 +1,8 @@
-theme: jekyll-theme-modernist
+title: "Awesome Scalability Read Notes"
+description: "Tracking and Notes for awesome Scalability Reads"
+theme: jekyll-theme-minima
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name
