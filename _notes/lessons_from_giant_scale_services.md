@@ -1,7 +1,9 @@
-# Summary
+## Summary
 
-# Key Takeaways
+## Key Takeaways
 
-# Notes
+## Notes
 
-# Additional Resources
+![Architecture](../_resources/basic-arc.png)
+
+## Additional Resources

@@ -5,4 +5,4 @@ theme: jekyll-theme-midnight
 collections:
   notes:
     output: true
-    permalink: /notes/:name
+    permalink: /:collection/:name
