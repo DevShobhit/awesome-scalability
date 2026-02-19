@@ -1,3 +1,7 @@
+---
+title: Lessons from Giant Scale Services
+---
+
 ## Summary
 
 ## Key Takeaways
