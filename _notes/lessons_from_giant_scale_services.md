@@ -8,6 +8,6 @@ title: Lessons from Giant Scale Services
 
 ## Notes
 
-![Architecture](../_resources/basic-arc.png)
+![Architecture](../resources/basic-arc.png)
 
 ## Additional Resources
